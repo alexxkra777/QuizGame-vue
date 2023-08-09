@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "question": "Hlavní město CZ?",
+        "options": [
+            { "answer": "Brno", "isCorrect": false },
+            { "answer": "Ostrava", "isCorrect": false },
+            { "answer": "Praha", "isCorrect": true },
+            { "answer": "Vlašim", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Kolik bude 25x25?",
+        "options": [
+            { "answer": "500", "isCorrect": false },
+            { "answer": "2500", "isCorrect": false },
+            { "answer": "625", "isCorrect": true },
+            { "answer": "1000", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Kolik je +- obyvatelu v Praze",
+        "options": [
+            { "answer": "20 000 000", "isCorrect": false },
+            { "answer": "10 000 000", "isCorrect": false },
+            { "answer": "2 000 000", "isCorrect": true },
+            { "answer": "5 000 000", "isCorrect": false }
+        ]
+    }
+]
